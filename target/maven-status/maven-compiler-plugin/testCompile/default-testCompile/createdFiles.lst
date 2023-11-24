@@ -1,0 +1,3 @@
+com\tecsup\petclinic\PetClinicApplicationTests.class
+com\tecsup\petclinic\controllers\PetControllerTest.class
+com\tecsup\petclinic\services\PetServiceTest.class
